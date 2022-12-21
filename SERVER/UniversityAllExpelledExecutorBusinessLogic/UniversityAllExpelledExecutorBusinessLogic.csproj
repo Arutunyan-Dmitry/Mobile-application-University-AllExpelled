@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UniversityAllExpelledDataBaseImplement\UniversityAllExpelledDataBaseImplement.csproj" />
+    <ProjectReference Include="..\UniversityAllExpelledExecutorContracts\UniversityAllExpelledExecutorContracts.csproj" />
+    <ProjectReference Include="..\UniversityAllExpelledSuretyContracts\UniversityAllExpelledSuretyContracts.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="OfficePackage\HelperModels\" />
+    <Folder Include="OfficePackage\Implements\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.16.0" />
+    <PackageReference Include="MailKit" Version="3.2.0" />
+    <PackageReference Include="MailSystem.NET" Version="2.0.1" />
+    <PackageReference Include="PdfSharp.MigraDoc.Standard" Version="1.51.15" />
+  </ItemGroup>
+
+</Project>

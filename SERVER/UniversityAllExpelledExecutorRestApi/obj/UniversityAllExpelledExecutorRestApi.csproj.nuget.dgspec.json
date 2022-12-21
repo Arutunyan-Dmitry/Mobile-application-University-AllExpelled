@@ -1,0 +1,555 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorRestApi\\UniversityAllExpelledExecutorRestApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledDataBaseImplement\\UniversityAllExpelledDataBaseImplement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledDataBaseImplement\\UniversityAllExpelledDataBaseImplement.csproj",
+        "projectName": "UniversityAllExpelledDataBaseImplement",
+        "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledDataBaseImplement\\UniversityAllExpelledDataBaseImplement.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledDataBaseImplement\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorContracts\\UniversityAllExpelledExecutorContracts.csproj": {
+                "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorContracts\\UniversityAllExpelledExecutorContracts.csproj"
+              },
+              "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyContracts\\UniversityAllExpelledSuretyContracts.csproj": {
+                "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyContracts\\UniversityAllExpelledSuretyContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorBusinessLogic\\UniversityAllExpelledExecutorBusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorBusinessLogic\\UniversityAllExpelledExecutorBusinessLogic.csproj",
+        "projectName": "UniversityAllExpelledExecutorBusinessLogic",
+        "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorBusinessLogic\\UniversityAllExpelledExecutorBusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorBusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledDataBaseImplement\\UniversityAllExpelledDataBaseImplement.csproj": {
+                "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledDataBaseImplement\\UniversityAllExpelledDataBaseImplement.csproj"
+              },
+              "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorContracts\\UniversityAllExpelledExecutorContracts.csproj": {
+                "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorContracts\\UniversityAllExpelledExecutorContracts.csproj"
+              },
+              "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyContracts\\UniversityAllExpelledSuretyContracts.csproj": {
+                "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyContracts\\UniversityAllExpelledSuretyContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.16.0, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "MailSystem.NET": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "PdfSharp.MigraDoc.Standard": {
+              "target": "Package",
+              "version": "[1.51.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorContracts\\UniversityAllExpelledExecutorContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorContracts\\UniversityAllExpelledExecutorContracts.csproj",
+        "projectName": "UniversityAllExpelledExecutorContracts",
+        "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorContracts\\UniversityAllExpelledExecutorContracts.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorRestApi\\UniversityAllExpelledExecutorRestApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorRestApi\\UniversityAllExpelledExecutorRestApi.csproj",
+        "projectName": "UniversityAllExpelledExecutorRestApi",
+        "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorRestApi\\UniversityAllExpelledExecutorRestApi.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorRestApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledDataBaseImplement\\UniversityAllExpelledDataBaseImplement.csproj": {
+                "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledDataBaseImplement\\UniversityAllExpelledDataBaseImplement.csproj"
+              },
+              "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorBusinessLogic\\UniversityAllExpelledExecutorBusinessLogic.csproj": {
+                "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorBusinessLogic\\UniversityAllExpelledExecutorBusinessLogic.csproj"
+              },
+              "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyBusinessLogic\\UniversityAllExpelledSuretyBusinessLogic.csproj": {
+                "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyBusinessLogic\\UniversityAllExpelledSuretyBusinessLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "M6T.Core.TupleModelBinder": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyBusinessLogic\\UniversityAllExpelledSuretyBusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyBusinessLogic\\UniversityAllExpelledSuretyBusinessLogic.csproj",
+        "projectName": "UniversityAllExpelledSuretyBusinessLogic",
+        "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyBusinessLogic\\UniversityAllExpelledSuretyBusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyBusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledDataBaseImplement\\UniversityAllExpelledDataBaseImplement.csproj": {
+                "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledDataBaseImplement\\UniversityAllExpelledDataBaseImplement.csproj"
+              },
+              "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyContracts\\UniversityAllExpelledSuretyContracts.csproj": {
+                "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyContracts\\UniversityAllExpelledSuretyContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.16.0, )"
+            },
+            "PdfSharp.MigraDoc.Standard": {
+              "target": "Package",
+              "version": "[1.51.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyContracts\\UniversityAllExpelledSuretyContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyContracts\\UniversityAllExpelledSuretyContracts.csproj",
+        "projectName": "UniversityAllExpelledSuretyContracts",
+        "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyContracts\\UniversityAllExpelledSuretyContracts.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledSuretyContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorContracts\\UniversityAllExpelledExecutorContracts.csproj": {
+                "projectPath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorContracts\\UniversityAllExpelledExecutorContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

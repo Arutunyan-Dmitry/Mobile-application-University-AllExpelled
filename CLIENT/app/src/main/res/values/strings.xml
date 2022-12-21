@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">"Все отчислены"</string>
+
+    <string name="bth_start_txt">Отчислить</string>
+    <string name="greeting_txt">Вы используете мобильное приложение Университет "Все отчислены" \n\n
+    Для входа в мобильное приложение нажмите кнопку ниже</string>
+
+    <string name="home_menu_i">Главная</string>
+    <string name="student_menu_i">Студенты</string>
+    <string name="student_form">Студент</string>
+    <string name="testing_menu_i">Испытания</string>
+    <string name="testing_form">Испытание</string>
+    <string name="statement_menu_i">Ведомости</string>
+    <string name="statement_form">Ведомость</string>
+    <string name="report_menu_i">Отчёты</string>
+
+    <string name="bth_connect">Привязать</string>
+    <string name="bth_disconnect">Отвязать</string>
+    <string name="bth_add">Сохранить</string>
+    <string name="bth_edit">Изменить</string>
+    <string name="bth_cancel">Отмена</string>
+
+    <string name="st_grade_nmb_in">Номер ЗК</string>
+    <string name="st_name_in">Имя</string>
+    <string name="st_surname_in">Фамилия</string>
+    <string name="st_middlename_in">Отчество</string>
+    <string name="ts_name_in">Название испытания</string>
+    <string name="stat_name_in">Название ведомости</string>
+
+    <string name="student_to_testing_connection_txt">Результат испытания студента</string>
+    <string name="student_to_statement_connection_txt">Оценка студента в ведомости</string>
+
+    <string name="sign_in_txt">Войти</string>
+    <string name="register_txt">Регистрация</string>
+    <string name="registration_txt">Зарегистрироваться</string>
+
+    <string name="e_mail_txt">E-mail</string>
+    <string name="password_txt">Пароль</string>
+    <string name="password_again_txt">Повторите праоль</string>
+
+    <string name="list_hd_txt">Отчёт по студентам и дисциплинам</string>
+    <string name="list_info_txt">Для формирования отчёта по студентам и дисциплинам необходимо выбрать студентов, по которым будет составляться отчёт. Отчёт формируется в формат .docx или .xlsx</string>
+    <string name="rep_hd_txt">Отчёт по студентам, испытаниям и ведомостям</string>
+    <string name="rep_info_txt">Для формирования отчёта по студентам, испытаниям и ведомостям необходимо выбрать период с какого и по какое чисто будет составляться отчёт. Отчёт формируется в формат .pdf и отправляется на почту</string>
+    <string name="btn_go_on">Приступить</string>
+
+    <string name="btn_word">Word</string>
+    <string name="btn_excel">Excel</string>
+    <string name="btn_pdf">Pdf на почту</string>
+    <string name="btn_mail">На почту</string>
+
+    <string name="from_txt">С</string>
+    <string name="to_txt">По</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="13dp"
+    android:paddingTop="20dp"
+    android:paddingRight="13dp"
+    android:paddingBottom="20dp"
+    tools:context=".AdminActivity">
+
+    <ListView
+        android:id="@+id/view_teachers"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp">
+
+    </ListView>
+
+    <ImageButton
+        android:id="@+id/button_admin_logout"
+        style="@style/Widget.AppCompat.ImageButton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="230dp"
+        android:layout_weight="9"
+        android:backgroundTint="@color/Crimson"
+        android:tint="@color/white"
+        app:srcCompat="@drawable/ic_baseline_logout" />
+
+</LinearLayout>

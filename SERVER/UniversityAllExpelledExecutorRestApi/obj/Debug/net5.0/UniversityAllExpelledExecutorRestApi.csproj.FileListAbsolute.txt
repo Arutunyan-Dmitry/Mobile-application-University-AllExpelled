@@ -1,0 +1,298 @@
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\appsettings.json
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.exe
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.deps.json
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.runtimeconfig.json
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.runtimeconfig.dev.json
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.pdb
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\M6T.Core.TupleModelBinder.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\MailKit.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Common.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Dns.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Groupware.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Imap4.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Mail.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Nntp.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.OpenPGP.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Pop3.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Smtp.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.WhoIs.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\MimeKit.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\MigraDoc.Rendering.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\MigraDoc.DocumentObjectModel.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\PdfSharp.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\PdfSharp.Charting.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.IO.Packaging.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Resources.Extensions.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\de\MigraDoc.Rendering.resources.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\de\PdfSharp.resources.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\de\PdfSharp.Charting.resources.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledDataBaseImplement.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorBusinessLogic.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorContracts.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledSuretyBusinessLogic.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledSuretyContracts.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledDataBaseImplement.pdb
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorBusinessLogic.pdb
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledSuretyBusinessLogic.pdb
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorContracts.pdb
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledSuretyContracts.pdb
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.csproj.AssemblyReference.cache
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.AssemblyInfoInputs.cache
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.AssemblyInfo.cs
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.csproj.CoreCompileInputs.cache
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\scopedcss\bundle\UniversityAllExpelledExecutorRestApi.styles.css
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\UniversityAllExpelledExecutorRestApi.StaticWebAssets.Manifest.cache
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.RazorTargetAssemblyInfo.cache
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.csproj.CopyComplete
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\refint\UniversityAllExpelledExecutorRestApi.dll
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.pdb
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.genruntimeconfig.cache
+D:\Ulstu\Курсовая Мобилки\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\ref\UniversityAllExpelledExecutorRestApi.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\appsettings.json
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.exe
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.deps.json
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.runtimeconfig.json
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.runtimeconfig.dev.json
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.pdb
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\M6T.Core.TupleModelBinder.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\MailKit.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Common.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Dns.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Groupware.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Imap4.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Mail.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Nntp.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.OpenPGP.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Pop3.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Smtp.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.WhoIs.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\MimeKit.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\MigraDoc.Rendering.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\MigraDoc.DocumentObjectModel.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\PdfSharp.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\PdfSharp.Charting.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.IO.Packaging.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Resources.Extensions.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\de\MigraDoc.Rendering.resources.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\de\PdfSharp.resources.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\de\PdfSharp.Charting.resources.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledDataBaseImplement.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorBusinessLogic.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorContracts.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledSuretyBusinessLogic.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledSuretyContracts.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledDataBaseImplement.pdb
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorBusinessLogic.pdb
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledSuretyBusinessLogic.pdb
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorContracts.pdb
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledSuretyContracts.pdb
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.csproj.AssemblyReference.cache
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.AssemblyInfoInputs.cache
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.AssemblyInfo.cs
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.csproj.CoreCompileInputs.cache
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\scopedcss\bundle\UniversityAllExpelledExecutorRestApi.styles.css
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\UniversityAllExpelledExecutorRestApi.StaticWebAssets.Manifest.cache
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\UniversityAllExpelledExecutorRestApi.StaticWebAssets.Pack.cache
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\msbuild.UniversityAllExpelledExecutorRestApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\msbuild.build.UniversityAllExpelledExecutorRestApi.props
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.UniversityAllExpelledExecutorRestApi.props
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.UniversityAllExpelledExecutorRestApi.props
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.RazorTargetAssemblyInfo.cache
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.csproj.CopyComplete
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\refint\UniversityAllExpelledExecutorRestApi.dll
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.pdb
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.genruntimeconfig.cache
+D:\Ulstu\CourseWorkMobile\OLD\UniversityAllExpelled\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\ref\UniversityAllExpelledExecutorRestApi.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\appsettings.json
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.exe
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.deps.json
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.runtimeconfig.json
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.runtimeconfig.dev.json
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorRestApi.pdb
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\M6T.Core.TupleModelBinder.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\MailKit.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Common.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Dns.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Groupware.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Imap4.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Mail.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Nntp.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.OpenPGP.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Pop3.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.Smtp.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\ActiveUp.Net.WhoIs.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\MimeKit.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\MigraDoc.Rendering.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\MigraDoc.DocumentObjectModel.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\PdfSharp.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\PdfSharp.Charting.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.IO.Packaging.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Resources.Extensions.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\de\MigraDoc.Rendering.resources.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\de\PdfSharp.resources.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\de\PdfSharp.Charting.resources.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledDataBaseImplement.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorBusinessLogic.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorContracts.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledSuretyBusinessLogic.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledSuretyContracts.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledDataBaseImplement.pdb
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorBusinessLogic.pdb
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledSuretyBusinessLogic.pdb
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledExecutorContracts.pdb
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\bin\Debug\net5.0\UniversityAllExpelledSuretyContracts.pdb
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.csproj.AssemblyReference.cache
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.AssemblyInfoInputs.cache
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.AssemblyInfo.cs
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.csproj.CoreCompileInputs.cache
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\scopedcss\bundle\UniversityAllExpelledExecutorRestApi.styles.css
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\UniversityAllExpelledExecutorRestApi.StaticWebAssets.Manifest.cache
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\UniversityAllExpelledExecutorRestApi.StaticWebAssets.Pack.cache
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\msbuild.UniversityAllExpelledExecutorRestApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\msbuild.build.UniversityAllExpelledExecutorRestApi.props
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.UniversityAllExpelledExecutorRestApi.props
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.UniversityAllExpelledExecutorRestApi.props
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.RazorTargetAssemblyInfo.cache
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.csproj.CopyComplete
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\refint\UniversityAllExpelledExecutorRestApi.dll
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.pdb
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\UniversityAllExpelledExecutorRestApi.genruntimeconfig.cache
+D:\Ulstu\CourseWorkMobile\SERVER\UniversityAllExpelledExecutorRestApi\obj\Debug\net5.0\ref\UniversityAllExpelledExecutorRestApi.dll

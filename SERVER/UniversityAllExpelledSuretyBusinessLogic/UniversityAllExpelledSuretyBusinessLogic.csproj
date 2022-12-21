@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UniversityAllExpelledDataBaseImplement\UniversityAllExpelledDataBaseImplement.csproj" />
+    <ProjectReference Include="..\UniversityAllExpelledSuretyContracts\UniversityAllExpelledSuretyContracts.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="OfficePackage\Implements\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.16.0" />
+    <PackageReference Include="PdfSharp.MigraDoc.Standard" Version="1.51.15" />
+  </ItemGroup>
+
+</Project>

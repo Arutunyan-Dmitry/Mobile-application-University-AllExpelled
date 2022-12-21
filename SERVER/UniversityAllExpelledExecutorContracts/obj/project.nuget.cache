@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H6zqzFma04si6S2JSRAwGDJGJ7asHJ0wnFygdown51vJCiBMcQSFdMDIcx86gI50JqZioqGkEz7C+jj56V8DOg==",
+  "success": true,
+  "projectFilePath": "D:\\Ulstu\\CourseWorkMobile\\SERVER\\UniversityAllExpelledExecutorContracts\\UniversityAllExpelledExecutorContracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\retr0\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\retr0\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\retr0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
